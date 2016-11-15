@@ -1,4 +1,5 @@
-## Open Source Hackathon - relaunched
+## Open Source Hackathon - RELOADED
+Date: 26/11/2016 from 11am to 11pm
 This is a repo for tracking down all the available projects where our hackathon's participants can contribute.
 
 ### Are you an open source project maintainer?
